@@ -1,0 +1,8 @@
+the following is done is done by me:
+->sv_jb_inf
+->dlt_que
+->inpt_hdlr
+->set_jobs
+->addrngjb
+->en_que
+->createnewlogfile
